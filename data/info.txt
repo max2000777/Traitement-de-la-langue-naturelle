@@ -1,0 +1,2 @@
+Ce jeu de données contient des sous-titres français pour les épisodes de la série Game of Thrones.
+Ces sous-titres ont été récupérés sur le site https://www.sous-titres.eu/series/game_of_thrones.html.
